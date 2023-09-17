@@ -1,0 +1,33 @@
+{    "Agents" : {
+
+        "hospital":
+            {
+                "role": "Provide medical care and assistance",
+                "responsibilities": "Treat injured persons, Coordinate with other agents for medical aid, Provide public health information",
+                "capabilities": "Emergency services, Surgical facilities, Trauma care, Rehabilitation"
+                      
+            },
+
+        "police_station":
+            {
+                "role": "Maintain law and order, Assist in evacuation and rescue",
+                "responsibilities": "Secure disaster sites, Direct traffic, Prevent looting, Support evacuation efforts , arrest accused",
+                "capabilities": "Law enforcement, Search and rescue, Crowd control, Investigation"
+            },
+
+        "ngos":
+            {
+                "role": " Only react to disasters affecting large number of people , volunteers provide manpower for relief , Provide aid and relief services like food water tent etc",
+                "responsibilities": "Distribute food and water, Offer shelter, Assist in recovery efforts",
+                "capabilities": "Disaster relief, Fundraising, Advocacy, Volunteer mobilization"
+            },
+            
+        "Fire Brigade": 
+            {
+                "role": "Firefighters provide emergency response and fire suppression services to protect lives, property, and the environment",
+                "responsibilities": "Responding to fire incidents, Conducting rescue operations, Providing emergency medical services, Ensuring public safety",
+                "capabilities": "Firefighting, Search and rescue, Hazardous materials response, Emergency medical services"
+                  
+            }
+    }
+}

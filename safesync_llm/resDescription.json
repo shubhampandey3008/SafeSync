@@ -1,0 +1,27 @@
+{
+    "hospital": {
+      "Beds": "Provide comfortable resting space with medical equipment for patient care during their stay. Each bed accommodates one patient",
+      "Ambulances": "Emergency vehicles staffed with medical professionals for rapid transportation of patients to the hospital. An ambulance has a capacity of 5 people",
+      "ICUs": "Specialized units with advanced technology and round-the-clock care for critically ill patients. 1 ICU has space for 1 critically ill person",
+      "Doctors": "Highly trained medical professionals who diagnose, treat, and provide expertise in managing patients' conditions. 1 Doctor can treat 10 people at a time",
+      "Nurses": "Essential healthcare providers who monitor patients, administer medications, and ensure overall well-being during hospitalization. 1 Nurse can look up to 5 people at a time"
+    },
+    "police_station": {
+      "Personnel": "Highly trained individuals responsible for enforcing the law, maintaining public safety, and responding to emergencies. A lower, medium, and high intensity event require 3, 8, and 12 personnel respectively",
+      "Patrol Vehicle": "Vehicles used for patrolling areas, conducting routine checks, and providing rapid response to incidents. A lower, medium, and high intensity event require 3, 8, and 12 Patrol Vehicles respectively",
+      "Police Van": "Specially equipped vehicles used for transporting personnel, detained individuals, and equipment during police operations. Police van is only required when over 20 personnel are required or when there is an arrest taking place"
+    },
+    "ngos": {
+      "Volunteers": "Dedicated individuals who contribute their time and skills to support various activities and services provided by the NGO. A lower, medium, and high intensity event require 10, 20, and 40 volunteers respectively",
+      "Tents": "Portable shelters that provide temporary housing and protection for displaced individuals during emergencies or humanitarian crises. Each tent can house 5 people",
+      "Food Packets": "Pre-packaged meals or food supplies that provide sustenance and nutrition to individuals in need during times of crisis or scarcity. One food packet per person",
+      "Water Bottle": "Containers filled with clean drinking water to ensure access to safe hydration for individuals in areas with limited or compromised water sources. One water bottle per person"
+    },
+    "Fire Brigade": {
+      "Personnel": "Highly trained individuals who respond to fire incidents and emergency situations, performing firefighting, rescue, and life-saving operations. Each fire incident requires 5 personnel",
+      "Fire fighting vehicle": "Specialized vehicle equipped with firefighting equipment, hoses, pumps, and tools necessary to suppress fires and protect lives and property. Each fire incident requires one firefighting vehicle",
+      "Rescue Vehicle": "Specially equipped vehicle designed for transporting personnel, equipment, and tools required for rescuing individuals from hazardous situations. 1 or 2 Rescue vehicle is sent when a MAJOR RESCUE OPERATION IS GOING ON",
+      "Search and Rescue Team": "Trained team equipped with specialized tools, techniques, and training to locate and rescue individuals in various emergency scenarios, including building collapses and natural disasters. Each rescue team can search for 5 people at a time"
+    }
+  }
+  
