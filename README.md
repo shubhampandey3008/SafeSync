@@ -78,7 +78,7 @@ These steps will guide you through setting up and running the LLM Backend, Sprin
 
 ## Usage :bulb:
 
-![Image Alt Text](image_url)
+![Image Alt Text](https://github.com/shubhampandey3008/SafeSync/blob/main/ss/WorkingGraph.png)
 
 
 - **Multiple Frontend Instances for Stakeholders** :earth_americas:
